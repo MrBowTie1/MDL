@@ -1,0 +1,1 @@
+execute as @e[tag=mdlcb] at @s if block ^ ^ ^0.3 air run kill @s
