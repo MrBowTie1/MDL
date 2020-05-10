@@ -1,0 +1,2 @@
+summon minecraft:armor_stand ~ ~ ~ {NoGravity:1b,Small:1b,Invisible:1b,NoBasePlate:0b,Tags:["goldenhopper","mdlcb"],ArmorItems:[{},{},{},{id:"minecraft:carrot_on_a_stick",Count:1b,tag:{CustomModelData:100100000100}}]}
+setblock ~ ~ ~ minecraft:blackstone replace
